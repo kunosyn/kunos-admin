@@ -1,6 +1,7 @@
 local module = {};
 
 module.webhook_link = ""; -- Link removed for security reasons
+
 module.webhook_log = {
 	"respawn",
 	"kick",
