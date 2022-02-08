@@ -1,7 +1,6 @@
 local module = {};
 
-module.webhook_link = "https://discord.com/api/webhooks/940429603137269800/zaffrq7a8VqUyaa1q8BqPoyBy-kNiPUpNv5YYTxBWOzToT_Y40DDV15VJrvO-Aw7Q0W0";
-
+module.webhook_link = ""; -- Link removed for security reasons
 module.webhook_log = {
 	"respawn",
 	"kick",
